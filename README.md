@@ -70,4 +70,5 @@ cmake --build .\build\
 ```
 
 ## Usage
-Drag your raw video file onto the exe
+Drag and drop your raw video file onto the exe
+&nbsp;&nbsp;- Requires a `Result` folder in the same directory as the exe
